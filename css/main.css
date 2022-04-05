@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  font-family: Georgia, serif;
+  line-height: 1.5;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  padding: .75em;
+  margin: 0;
+  background-color: #fff;
+}
+
+h1 {
+  font-family: "Denk One", sans-serif;
+  color: #623b0c;
+  margin: .27em 0;
+}
